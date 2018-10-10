@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Ant hit\Ant hit\bin\Debug\Ant hit.exe.config
+C:\Users\dell\source\repos\Ant hit\Ant hit\bin\Debug\Ant hit.exe
+C:\Users\dell\source\repos\Ant hit\Ant hit\bin\Debug\Ant hit.pdb
+C:\Users\dell\source\repos\Ant hit\Ant hit\bin\Debug\Ant hit.xml
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant hit.vbprojAssemblyReference.cache
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant_hit.Form1.resources
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant_hit.Form2.resources
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant_hit.Resources.resources
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant hit.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant hit.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant hit.exe
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant hit.xml
+C:\Users\dell\source\repos\Ant hit\Ant hit\obj\Debug\Ant hit.pdb
